@@ -1,5 +1,8 @@
 ---
-title: /showreel
+title: /sound design
 layout: default
-permalink: /showreel
+permalink: /sounddesign
 ---
+
+
+
