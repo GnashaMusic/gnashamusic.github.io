@@ -23,16 +23,15 @@ Shortly after her journey into production, Gnasha took up the art of mixing and 
 Almost a decade of music production experience under her belt, Gnasha has refined her sound and style in music. In 2020 she was seen on the Duploc Dubstep Awards being nominated for best video with her track ‘Bunker’ featuring Griz-O and her Contortion EP featured on the Juno Download Best of 2020 Dubstep/ Grime and Trap.
 
 Previously she has featured on several labels, including; **Duploc, Nomine Sound, Infernal Sounds Cltr** and looks forward to growing her discography in the future. Her music has seen support from artists such as **N-Type, Widow & Truth** with her debut EP on **Foto Sounds** reaching **Number 1 in the Juno Download Dubstep releases**.
+<hr class="dotted-line">
+<hr class="dotted-line">
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7i6lz8EjNSizhnivpa32q6?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h2><mark style="background-color: lightgrey;">Latest Music</mark> </h2> 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6DUGdWKUwyXDmhpFbUWAkr?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/21a7qJY7WoIjimhpjUv4mS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<hr class="dotted-line">
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2sktnAoCWSRUZiCvG1VVoT?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/59HlWxLEahxoROwx8KpvMM?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/49uVKQUlUSOCOb7um1GZn5?utm_source=generator&theme=0" width="100%" height="730" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <hr class="dotted-line">
 <hr class="dotted-line">
