@@ -57,12 +57,13 @@ exclude:
   - LICENSE
 
 header_pages:
-  - Gigs.md
-  - README.md
-  - showreel.md
-  - implementation.md
+  - index.markdown
   - music.md
-  - content.md
+  - performances&mixes.md
+  - tutoring.md
+  - showreel.md
+  - bookings.md
+
 
 style: dark
 
