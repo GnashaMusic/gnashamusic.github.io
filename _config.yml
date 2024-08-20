@@ -26,7 +26,7 @@ description: >-
 baseurl: ""
 url: "gnashamusic.github.io"
 
-favicon: "/assets/images/favicon.ico"
+favicon: "assets/images/favicon.ico"
 
 permalink: /:slug/
 
